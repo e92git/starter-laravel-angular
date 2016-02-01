@@ -7,6 +7,10 @@ use Illuminate\Contracts\Auth\CanResetPassword as CanResetPasswordContract;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Hash;
 
+/**
+ * Todo\User
+ *
+ */
 class User extends Model implements AuthenticatableContract, CanResetPasswordContract
 {
 

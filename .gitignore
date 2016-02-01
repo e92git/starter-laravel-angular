@@ -4,6 +4,9 @@
 /public/js
 /public/build
 
+_ide_helper.php
+.phpstorm.meta.php
+
 # Created by https://www.gitignore.io
 
 ### Laravel ###

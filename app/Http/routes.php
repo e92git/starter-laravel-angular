@@ -44,3 +44,4 @@ Route::any('{undefinedRoute}', function ($undefinedRoute) {
 // You are well-advised to go without any Blade at all.
 Blade::setContentTags('<%', '%>'); // For variables and all things Blade.
 Blade::setEscapedContentTags('<%%', '%%>'); // For escaped data.
+
