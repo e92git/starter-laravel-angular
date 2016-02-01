@@ -1,5 +1,5 @@
 <form name="loginForm" ng-controller="UserController" ng-submit="create()"
-      class="form-horizontal" novalidate>
+      class="form-horizontal" >
     <div class="form-group">
         <div class="col-md-3">
             <input type="text" id="username" ng-model="username"
